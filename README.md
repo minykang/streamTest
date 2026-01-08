@@ -18,6 +18,7 @@ Stream API는 선언적이고 가독성 높은 코드 작성을 가능하게 하
 
 ---
 
+<br>
 
 ## 👥 팀원 소개
 | <img src="https://github.com/seajihey.png" width="200px"> | <img src="https://github.com/jongyeon0214.png" width="200px"> | <img src="https://github.com/minykang.png" width="200px"> |
